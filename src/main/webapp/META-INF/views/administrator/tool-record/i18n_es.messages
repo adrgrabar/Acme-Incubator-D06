@@ -1,0 +1,19 @@
+administrator.toolRecord.list.label.title = Título
+administrator.toolRecord.list.label.description = Descripción
+administrator.toolRecord.list.label.stars = Estrellas
+
+administrator.toolRecord.form.label.title = Título
+administrator.toolRecord.form.label.description = Descripción
+administrator.toolRecord.form.label.activitySector = Sector de actividad
+administrator.toolRecord.form.label.stars = Estrellas
+administrator.toolRecord.form.label.webSite = Página web
+administrator.toolRecord.form.label.email = Email
+administrator.toolRecord.form.label.inventor = Inventor
+administrator.toolRecord.form.label.openSource = Código abierto
+
+administrator.toolRecord.form.button.return = Volver
+administrator.toolRecord.form.button.create = Crear
+administrator.toolRecord.form.button.update = Actualizar
+administrator.toolRecord.form.button.delete = Eliminar
+
+administrator.toolRecords.error.stars = La puntuación debe estar entre 0 y 5

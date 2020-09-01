@@ -1,0 +1,15 @@
+investor.activity.list.label.title = Título
+investor.activity.list.label.startDate = Fecha de inicio
+
+investor.activity.form.label.title = Título
+investor.activity.form.label.startDate = Fecha de inicio
+investor.activity.form.label.endDate = Fecha de fin
+investor.activity.form.label.budget = Presupuesto
+
+investor.activity.form.button.return = Volver
+investor.activity.list.button.return = Volver
+investor.activity.form.button.create = Crear
+investor.activity.form.button.update = Actualizar
+investor.activity.form.button.delete = Eliminar
+
+investor.activity.error.wrongDates = La fecha de fin debe ser posterior a la fecha de inicio

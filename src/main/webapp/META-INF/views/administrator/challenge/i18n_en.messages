@@ -1,0 +1,22 @@
+administrator.challenge.list.label.title = Title
+administrator.challenge.list.label.description = Description
+
+administrator.challenge.form.label.title = Title
+administrator.challenge.form.label.description = Description
+administrator.challenge.form.label.deadline = Deadline
+administrator.challenge.form.label.rookieGoal = Rookie goal
+administrator.challenge.form.label.averageGoal = Average goal
+administrator.challenge.form.label.expertGoal = Expert goal
+administrator.challenge.form.label.rookieReward = Rookie reward
+administrator.challenge.form.label.averageReward = Average reward
+administrator.challenge.form.label.expertReward = Expert reward
+
+administrator.challenge.form.button.return = Return
+administrator.challenge.form.button.create = Create
+administrator.challenge.form.button.update = Update
+administrator.challenge.form.button.delete = Delete
+
+administrator.challenge.error.euro = The amount of money must be in euros
+administrator.challenge.error.bigAmount = The rookie reward can't be greater than the average reward
+administrator.challenge.error.littleAmount = The average reward can't be greater than the expert reward
+administrator.challenge.error.deadline = The deadline must be in the future

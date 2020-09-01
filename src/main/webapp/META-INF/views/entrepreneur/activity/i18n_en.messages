@@ -1,0 +1,15 @@
+entrepreneur.activity.list.label.title = Title
+entrepreneur.activity.list.label.startDate = Start date
+
+entrepreneur.activity.form.label.title = Title
+entrepreneur.activity.form.label.startDate = Start date
+entrepreneur.activity.form.label.endDate = End date
+entrepreneur.activity.form.label.budget = Budget
+
+entrepreneur.activity.form.button.return = Return
+entrepreneur.activity.list.button.return = Return
+entrepreneur.activity.form.button.create = Create
+entrepreneur.activity.form.button.update = Update
+entrepreneur.activity.form.button.delete = Delete
+
+entrepreneur.activity.error.wrongDates = The end date must be after the start date

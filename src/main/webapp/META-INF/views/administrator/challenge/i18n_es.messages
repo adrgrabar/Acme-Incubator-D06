@@ -1,0 +1,22 @@
+administrator.challenge.list.label.title = Título
+administrator.challenge.list.label.description = Descripción
+
+administrator.challenge.form.label.title = Título
+administrator.challenge.form.label.description = Descripción
+administrator.challenge.form.label.deadline = Fecha de fin
+administrator.challenge.form.label.rookieGoal = Objetivo de novato
+administrator.challenge.form.label.averageGoal = Objetivo medio
+administrator.challenge.form.label.expertGoal = Objetivo de experto
+administrator.challenge.form.label.rookieReward = Recompensa de novato
+administrator.challenge.form.label.averageReward = Recompensa media
+administrator.challenge.form.label.expertReward = Recompensa de experto
+
+administrator.challenge.form.button.return = Volver
+administrator.challenge.form.button.create = Crear
+administrator.challenge.form.button.update = Actualizar
+administrator.challenge.form.button.delete = Eliminar
+
+administrator.challenge.error.euro = La cantidad de dinero debe estar en euros
+administrator.challenge.error.bigAmount = La recompensa de novato no puede ser mayor que la media
+administrator.challenge.error.littleAmount = La recompensa de experto no puede ser menor que la media
+administrator.challenge.error.deadline = La fecha de fin debe ser en el futuro

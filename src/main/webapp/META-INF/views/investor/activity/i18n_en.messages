@@ -1,0 +1,15 @@
+investor.activity.list.label.title = Title
+investor.activity.list.label.startDate = Start date
+
+investor.activity.form.label.title = Title
+investor.activity.form.label.startDate = Start date
+investor.activity.form.label.endDate = End date
+investor.activity.form.label.budget = Budget
+
+investor.activity.form.button.return = Return
+investor.activity.list.button.return = Return
+investor.activity.form.button.create = Create
+investor.activity.form.button.update = Update
+investor.activity.form.button.delete = Delete
+
+investor.activity.error.wrongDates = The end date must be after the start date

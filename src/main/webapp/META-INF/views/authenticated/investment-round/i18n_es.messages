@@ -1,0 +1,13 @@
+authenticated.investmentRound.list.label.title = Título
+authenticated.investmentRound.list.label.ticker = Ticker
+
+authenticated.investmentRound.form.label.title = Título
+authenticated.investmentRound.form.label.description = Descripción
+authenticated.investmentRound.form.label.date = Fecha de creación
+authenticated.investmentRound.form.label.ticker = Ticker
+authenticated.investmentRound.form.label.type = Tipo
+authenticated.investmentRound.form.label.moneyAmount = Cantidad de dinero
+authenticated.investmentRound.form.label.moreInformation = Mas información
+
+authenticated.investmentRound.form.button.return = Volver
+authenticated.investmentRound.form.button.activities = Actividades

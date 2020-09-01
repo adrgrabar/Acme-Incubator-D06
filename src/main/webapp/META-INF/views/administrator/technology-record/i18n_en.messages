@@ -1,0 +1,17 @@
+administrator.technologyRecord.list.label.title = Title
+administrator.technologyRecord.list.label.description = Description
+administrator.technologyRecord.list.label.stars = Stars
+
+administrator.technologyRecord.form.label.title = Title
+administrator.technologyRecord.form.label.description = Description
+administrator.technologyRecord.form.label.activitySector = Activity sector
+administrator.technologyRecord.form.label.stars = Stars
+administrator.technologyRecord.form.label.webSite = Web site
+administrator.technologyRecord.form.label.email = email
+administrator.technologyRecord.form.label.inventor = Inventor
+administrator.technologyRecord.form.label.openSource = Open source
+
+administrator.technologyRecord.form.button.return = Return
+administrator.technologyRecord.form.button.create = Create
+administrator.technologyRecord.form.button.update = Update
+administrator.technologyRecord.form.button.delete = Delete

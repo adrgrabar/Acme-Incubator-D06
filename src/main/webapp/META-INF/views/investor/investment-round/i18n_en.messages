@@ -1,0 +1,22 @@
+investor.investmentRound.list.label.title = Title
+investor.investmentRound.list.label.ticker = Ticker
+
+investor.investmentRound.form.label.title = Title
+investor.investmentRound.form.label.description = Description
+investor.investmentRound.form.label.date = Creation date
+investor.investmentRound.form.label.ticker = Ticker
+investor.investmentRound.form.label.type = Type
+investor.investmentRound.form.label.moneyAmount = Money amount
+investor.investmentRound.form.label.moreInformation = More information
+investor.investmentRound.form.label.published = Published
+
+investor.investmentRound.form.button.return = Return
+investor.investmentRound.form.button.activities = Activities
+investor.investmentRound.form.button.activities.create = Create activity
+investor.investmentRound.form.button.applications = Applications to this investment round
+investor.investmentRound.form.button.apply = Apply
+
+investor.investmentRound.error.activitiesNull = You must have activities created
+investor.investmentRound.error.activitiesSum = Your activity offers must sum up your investment round money amount
+investor.investmentRound.error.euro = The currency must be in euros
+investor.investmentRound.error.description = This description is considered spam

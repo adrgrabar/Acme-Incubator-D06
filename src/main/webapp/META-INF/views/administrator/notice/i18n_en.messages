@@ -1,0 +1,20 @@
+administrator.notice.list.label.title = Title
+administrator.notice.list.label.picture = Picture link
+administrator.notice.list.label.date = Creation date
+administrator.notice.list.label.deadline = Deadline
+administrator.notice.list.label.body = Body
+administrator.notice.list.label.links = Links
+administrator.notice.list.button.create = Create
+
+administrator.notice.form.label.title = Title
+administrator.notice.form.label.picture = Picture link
+administrator.notice.form.label.date = Creation date
+administrator.notice.form.label.deadline = Deadline
+administrator.notice.form.label.body = Body
+administrator.notice.form.label.links = Links
+administrator.notice.form.label.confirmation = Confirm you want to publish the notice
+administrator.notice.form.button.return = Return
+administrator.notice.form.button.create = Create
+
+administrator.notice.error.confirmation = Please confirm that you want to publish
+administrator.notice.error.deadline = Deadline must be in the future

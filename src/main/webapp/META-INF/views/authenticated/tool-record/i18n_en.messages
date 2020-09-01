@@ -1,0 +1,13 @@
+authenticated.toolRecord.list.label.title = Title
+authenticated.toolRecord.list.label.description = Description
+authenticated.toolRecord.list.label.stars = Stars
+
+authenticated.toolRecord.form.label.title = Title
+authenticated.toolRecord.form.label.description = Description
+authenticated.toolRecord.form.label.activitySector = Activity sector
+authenticated.toolRecord.form.label.stars = Stars
+authenticated.toolRecord.form.label.webSite = Web site
+authenticated.toolRecord.form.label.email = email
+authenticated.toolRecord.form.label.inventor = Inventor
+authenticated.toolRecord.form.label.openSource = Open source
+authenticated.toolRecord.form.button.return = Return

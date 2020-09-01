@@ -1,0 +1,24 @@
+entrepreneur.investmentRound.list.label.title = Título
+entrepreneur.investmentRound.list.label.ticker = Ticker
+
+entrepreneur.investmentRound.form.label.title = Título
+entrepreneur.investmentRound.form.label.description = Descripción
+entrepreneur.investmentRound.form.label.date = Fecha de creación
+entrepreneur.investmentRound.form.label.ticker = Ticker
+entrepreneur.investmentRound.form.label.type = Tipo
+entrepreneur.investmentRound.form.label.moneyAmount = Cantidad de dinero
+entrepreneur.investmentRound.form.label.moreInformation = Mas información
+entrepreneur.investmentRound.form.label.published = Publicado
+
+entrepreneur.investmentRound.form.button.return = Volver
+entrepreneur.investmentRound.form.button.activities = Actividades
+entrepreneur.investmentRound.form.button.activities.create = Crear actividad
+entrepreneur.investmentRound.form.button.applications = Aplicaciones para esta ronda de inversión
+entrepreneur.investmentRound.form.button.update = Actualizar
+entrepreneur.investmentRound.form.button.create = Crear
+entrepreneur.investmentRound.form.button.delete = Borrar
+
+entrepreneur.investmentRound.error.activitiesNull = Debes haber creado actividades
+entrepreneur.investmentRound.error.activitiesSum = Las ofertas de tus actividades deben sumar la cantidad de dinero de tu ronda de inversión
+entrepreneur.investmentRound.error.euro = El dinero debe estar en euros
+entrepreneur.investmentRound.error.description = Esta descripción es considerada spam
