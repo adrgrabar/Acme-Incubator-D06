@@ -76,7 +76,7 @@ public class EntrepreneurApplicationUpdateStatusService implements AbstractUpdat
 		assert entity != null;
 		assert errors != null;
 		if (request.getModel().getString("newStatus").equals("REJECTED") && !errors.hasErrors("justification")) {
-			errors.state(request, entity.getJustification().length() > 10, "justification", "entrepreneur.application.error.justificationMissing");
+			errors.state(request, entity.getJustification().length() > 9, "justification", "entrepreneur.application.error.justificationMissing");
 		}
 	}
 

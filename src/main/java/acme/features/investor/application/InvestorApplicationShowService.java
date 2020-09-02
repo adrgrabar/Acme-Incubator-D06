@@ -8,6 +8,7 @@ import acme.entities.applications.Application;
 import acme.entities.roles.Investor;
 import acme.framework.components.Model;
 import acme.framework.components.Request;
+import acme.framework.entities.Principal;
 import acme.framework.services.AbstractShowService;
 
 @Service
@@ -21,7 +22,19 @@ public class InvestorApplicationShowService implements AbstractShowService<Inves
 	public boolean authorise(final Request<Application> request) {
 		assert request != null;
 
-		return true;
+		Application application;
+		Integer applicationId;
+		Boolean result;
+		Principal principal;
+		Investor investor;
+
+		applicationId = request.getModel().getInteger("id");
+		application = this.repository.findOneById(applicationId);
+		principal = request.getPrincipal();
+		investor = application.getInvestor();
+
+		result = investor.getUserAccount().getId() == principal.getAccountId();
+		return result;
 	}
 
 	@Override

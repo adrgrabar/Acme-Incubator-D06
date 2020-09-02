@@ -13,3 +13,5 @@ entrepreneur.activity.form.button.update = Actualizar
 entrepreneur.activity.form.button.delete = Eliminar
 
 entrepreneur.activity.error.wrongDates = La fecha de fin debe ser posterior a la fecha de inicio
+entrepreneur.activity.error.pastDate = La fecha debe ser en el futuro
+entrepreneur.activity.error.euro = El dinero debe estar en euros

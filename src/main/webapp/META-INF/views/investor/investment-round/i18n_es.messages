@@ -1,10 +1,10 @@
 investor.investmentRound.list.label.title = Título
-investor.investmentRound.list.label.ticker = Ticker
+investor.investmentRound.list.label.ticker = Teletipo
 
 investor.investmentRound.form.label.title = Título
 investor.investmentRound.form.label.description = Descripción
 investor.investmentRound.form.label.date = Fecha de creación
-investor.investmentRound.form.label.ticker = Ticker
+investor.investmentRound.form.label.ticker = Teletipo
 investor.investmentRound.form.label.type = Tipo
 investor.investmentRound.form.label.moneyAmount = Cantidad de dinero
 investor.investmentRound.form.label.moreInformation = Mas información

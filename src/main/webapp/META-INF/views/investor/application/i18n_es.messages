@@ -1,8 +1,8 @@
-investor.application.list.label.ticker = Ticker
+investor.application.list.label.ticker = Teletipo
 investor.application.list.label.investmentRoundTitle = Título de la ronda de inversión
 investor.application.list.label.status = Estado
 
-investor.application.form.label.ticker = Ticker
+investor.application.form.label.ticker = Teletipo
 investor.application.form.label.date = Fecha de creación
 investor.application.form.label.statement = Declaración
 investor.application.form.label.offer = Oferta

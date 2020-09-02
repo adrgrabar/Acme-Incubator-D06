@@ -4,10 +4,10 @@ anonymous.toolRecord.list.label.stars = Stars
 
 anonymous.toolRecord.form.label.title = Title
 anonymous.toolRecord.form.label.description = Description
-authenticated.toolRecord.form.label.activitySector = Activity sector
+anonymous.toolRecord.form.label.activitySector = Activity sector
 anonymous.toolRecord.form.label.stars = Stars
 anonymous.toolRecord.form.label.webSite = Web site
-anonymous.toolRecord.form.label.email = email
+anonymous.toolRecord.form.label.email = Email
 anonymous.toolRecord.form.label.inventor = Inventor
 anonymous.toolRecord.form.label.openSource = Open source
 anonymous.toolRecord.form.button.return = Return

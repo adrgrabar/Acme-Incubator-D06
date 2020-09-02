@@ -16,7 +16,7 @@
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
 <acme:form>
-	<acme:form-textbox code="investor.application.form.label.ticker" path="ticker"/>
+	<acme:form-textbox code="investor.application.form.label.ticker" path="ticker" placeholder="XXX-00-000000"/>
 	<acme:form-textbox code="investor.application.form.label.statement" path="statement"/>
 	<acme:form-money code="investor.application.form.label.offer" path="offer"/>
 	<jstl:if test="${command!='create'}">

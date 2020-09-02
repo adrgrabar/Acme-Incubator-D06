@@ -4,7 +4,7 @@ anonymous.toolRecord.list.label.stars = Estrellas
 
 anonymous.toolRecord.form.label.title = Título
 anonymous.toolRecord.form.label.description = Descripción
-authenticated.toolRecord.form.label.activitySector = Sector de actividad
+anonymous.toolRecord.form.label.activitySector = Sector de actividad
 anonymous.toolRecord.form.label.stars = Estrellas
 anonymous.toolRecord.form.label.webSite = Página web
 anonymous.toolRecord.form.label.email = Email

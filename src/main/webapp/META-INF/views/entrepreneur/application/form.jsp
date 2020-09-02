@@ -16,7 +16,7 @@
 <%@taglib prefix="acme" tagdir="/WEB-INF/tags"%>
 
 <acme:form>
-	<acme:form-textbox code="entrepreneur.application.form.label.ticker" path="ticker" readonly="true"/>
+	<acme:form-textbox code="entrepreneur.application.form.label.ticker" path="ticker" readonly="true" placeholder="XXX-00-000000"/>
 	<acme:form-moment code="entrepreneur.application.form.label.date" path="date" readonly="true"/>
 	<acme:form-textbox code="entrepreneur.application.form.label.statement" path="statement" readonly="true"/>
 	<acme:form-money code="entrepreneur.application.form.label.offer" path="offer" readonly="true"/>
