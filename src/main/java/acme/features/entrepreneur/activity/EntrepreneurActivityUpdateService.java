@@ -1,6 +1,8 @@
 
 package acme.features.entrepreneur.activity;
 
+import java.util.Date;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -75,6 +77,18 @@ public class EntrepreneurActivityUpdateService implements AbstractUpdateService<
 		assert request != null;
 		assert entity != null;
 		assert errors != null;
+		if (!errors.hasErrors("startDate") && !errors.hasErrors("endDate")) {
+			errors.state(request, entity.getStartDate().before(entity.getEndDate()), "endDate", "entrepreneur.activity.error.wrongDates");
+		}
+		if (!errors.hasErrors("budget")) {
+			errors.state(request, entity.getBudget().getCurrency().equals("EUR") || entity.getBudget().getCurrency().equals("€"), "budget", "entrepreneur.activity.error.euro");
+		}
+		if (!errors.hasErrors("startDate")) {
+			errors.state(request, entity.getStartDate().after(new Date(System.currentTimeMillis() - 1)), "startDate", "entrepreneur.activity.error.pastDate");
+		}
+		if (!errors.hasErrors("endDate")) {
+			errors.state(request, entity.getEndDate().after(new Date(System.currentTimeMillis() - 1)), "endDate", "entrepreneur.activity.error.pastDate");
+		}
 	}
 
 	@Override
